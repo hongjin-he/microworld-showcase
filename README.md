@@ -8,13 +8,13 @@ On-chain exchanges change that. On Hyperliquid, every account's positions, lever
 
 ![Star Map preview](assets/star_map_preview.gif)
 
-▶ [Watch the 1-minute Star Map demo](assets/MicroWorld_Star_Map_demo.mp4) · *The Star Map uses an earlier snapshot (Oct 11, 2026): 3,710 positions across 2,347 accounts.*
+▶ [Watch the 1-minute Star Map demo](assets/MicroWorld_Star_Map_demo.mp4) · *The Star Map replays a snapshot of 3,710 real positions across 2,347 accounts (Oct 10, 2026) against the real minute-by-minute prices of October 10, 2025. It is a scenario replay, not a record of who was liquidated that day.*
 
 ---
 
 ## What it does today
 
-**Star Map.** Every star is a real open position on Hyperliquid. Replay a crash minute by minute: as the price falls, positions cross their liquidation prices and burn out, and cumulative liquidations climb.
+**Star Map.** Every star is a real open position on Hyperliquid. Replay a crash, minute by minute, against real historical prices: as the price falls, positions cross their liquidation prices and burn out, and cumulative liquidations climb.
 
 **What-If Engine.** Pick a shock, for example BTC −8% over 15 minutes under stressed liquidity. The engine checks every position against its liquidation price, aggregates the forced selling, moves prices, and repeats until the market settles.
 
