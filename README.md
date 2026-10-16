@@ -8,7 +8,7 @@ On-chain exchanges change that. On Hyperliquid, every account's positions, lever
 
 ![Star Map preview](assets/star_map_preview.gif)
 
-▶ [Watch the 1-minute Star Map demo](assets/MicroWorld_Star_Map_demo.mp4)
+▶ [Watch the 1-minute Star Map demo](assets/MicroWorld_Star_Map_demo.mp4) · *The Star Map uses an earlier snapshot (Oct 11, 2026): 3,710 positions across 2,347 accounts.*
 
 ---
 
@@ -20,7 +20,7 @@ On-chain exchanges change that. On Hyperliquid, every account's positions, lever
 
 ![What-If Engine](assets/what_if_preview.gif)
 
-| From one public snapshot (Oct 2026) | |
+| What-If Engine, one public snapshot (Oct 13, 2026) | |
 |---|---|
 | Accounts with open positions | ~3,100 |
 | Positions | ~8,800 |
