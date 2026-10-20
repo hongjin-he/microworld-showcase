@@ -47,6 +47,13 @@ On-chain markets are still a small slice of global finance. In traditional marke
 
 - Long-term goal: a world model of finance, where any important financial decision can be simulated before the market sees it.
 
+## Learn more
+
+- [What is a world model of finance?](https://hongjin-he.github.io/world-models-in-finance/): a plain explainer, with MicroWorld as a worked example
+- [Awesome World Models for Finance](https://github.com/hongjin-he/awesome-world-models-for-finance): curated reading list
+- [Mathematical Framework for MicroUniverse](https://github.com/hongjin-he/Mathematical-Framework-For-MicroUniverse): the mathematical theory behind world models for quantitative finance
+- Co-founder and CTO: [Hongjin He](https://hongjin-he.github.io) · [LinkedIn](https://www.linkedin.com/in/hongjinhe-hkust)
+
 ## About
 
 Built by [AlphaFlow](https://microworldmarkets.com), founded by students from HKUST, NUS and HKU. Pre-revenue.
